@@ -1,0 +1,3 @@
+file_name,file_path,status,comment,z_slices,include_abdomen,include_pelvis,sufficient_z_axis,readable_three_planes,artifacts_or_technical_issues,reviewed_at
+CT.nii.gz,CT.nii.gz,accepted,prova commento,640,yes,yes,yes,yes,no,2026-07-23T08:27:11+00:00
+CT2.nii.gz,CT2.nii.gz,accepted,sono indeciso,246,yes,yes,yes,yes,no,2026-07-23T08:38:16+00:00
