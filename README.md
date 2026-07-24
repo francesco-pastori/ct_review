@@ -77,7 +77,7 @@ Sempre dalla schermata iniziale bisogna indicare dove salvare il CSV della revie
 
 ## Schermata di review
 Durante la review, prima di premere **Accept** o **Reject** bisogna compilare i checkbox della checklist di qualita; altrimenti il caso può essere skippato e si puo tornare a valutarlo in seguito. Ci si puo muovere tra le CT anche tramite il menu a comparsa dei file. A ogni **Skip**, **Accept** o **Reject**, il file viene aggiunto o aggiornato nel CSV.
-![Schermata di review](images/review_screen.png)
+![Schermata di review](images/review_screen.PNG)
 
 ## CSV Columns
 
