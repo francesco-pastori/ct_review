@@ -75,7 +75,9 @@ Poi si puo scegliere un dataset JSON da cui estrarre i metadati di outcome. I re
 
 Sempre dalla schermata iniziale bisogna indicare dove salvare il CSV della review, oppure caricare un CSV esistente se una review è gia stata iniziata ma non e ancora terminata. Si deve inoltre scegliere il numero minimo di slice assiali che una TAC deve avere per essere considerata accettabile secondo questo parametro.
 
+## Schermata di review
 Durante la review, prima di premere **Accept** o **Reject** bisogna compilare i checkbox della checklist di qualita; altrimenti il caso può essere skippato e si puo tornare a valutarlo in seguito. Ci si puo muovere tra le CT anche tramite il menu a comparsa dei file. A ogni **Skip**, **Accept** o **Reject**, il file viene aggiunto o aggiornato nel CSV.
+![Schermata di review](images/review_screen.png)
 
 ## CSV Columns
 
